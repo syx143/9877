@@ -25,4 +25,4 @@
 
 💬 用户互动与社区
 平台还提供了用户评论与评分系统，你可以查看其他观众对影片的评价和感受，参与讨论并分享自己的观后感。通过与其他影迷互动，发现更多精彩作品，找到你一直在寻找的隐藏佳片，提升观影乐趣。
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/syx143/9877 ）</span>
